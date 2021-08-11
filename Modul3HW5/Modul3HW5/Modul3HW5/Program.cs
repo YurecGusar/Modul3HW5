@@ -6,9 +6,7 @@ namespace Modul3HW5
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("develop");
         }
     }
 }
