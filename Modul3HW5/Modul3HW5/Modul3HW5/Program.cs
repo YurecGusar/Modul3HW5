@@ -6,7 +6,8 @@ namespace Modul3HW5
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("develop");
+            var starter = new Starter();
+            starter.Run();
         }
     }
 }
